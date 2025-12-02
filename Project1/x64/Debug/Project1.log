@@ -1,4 +1,5 @@
 ﻿  lab_2.1.cpp
 C:\Users\Natalia\Desktop\АП\Project1\lab_2.1.cpp(14,12): warning C4101: 'a': unreferenced local variable
 C:\Users\Natalia\Desktop\АП\Project1\lab_2.1.cpp(15,12): warning C4101: 'x': unreferenced local variable
+  LINK : C:\Users\Natalia\Desktop\АП\Project1\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
   Project1.vcxproj -> C:\Users\Natalia\Desktop\АП\Project1\x64\Debug\Project1.exe
